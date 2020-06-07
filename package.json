@@ -1,0 +1,13 @@
+{
+	"name": "WebAR",
+	"version": "1.0.0",
+	"lockfileVersion": 1,
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FabianoSPFC/WebAR.git"
+	},
+	"dependencies": {
+		"heroku": "^7.42.1"
+	}
+}
